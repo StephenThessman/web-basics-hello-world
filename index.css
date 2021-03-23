@@ -1,18 +1,28 @@
 .purple {
   color: purple;
+  font-size: 32px;
   /* TODO: Add some style definitions for the purple class in here... */
 }
 
 /* #answer-display will have black text on a white background.
    Hovering the mouse over it will reveal the text */
 #answer-display {
-  background-color: #000;
-}
-
-button{
-
+  background-color: olive;
+  color: olive;
 }
 
 #answer-display:hover {
   color: #fff;
+}
+
+.olive{
+  background-color: olivedrab;
+}
+
+.b1 {
+  color: blue;
+  background-color: deeppink;
+}
+.body{
+  text-align: center;
 }
